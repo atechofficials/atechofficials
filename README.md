@@ -1,10 +1,14 @@
-👋 Hi, we are @atechofficials</br>
-At <strong>A-Tech Officials</strong> we are crazy about Programming and Electronics.</br>
-We believe in the concept of open-source projects. That's why all the projects will be kept open to the public and ready for any improvements/modifications.</br>
-On this A-Tech Officials Github page, you will find repositories of all the projects (mostly OpenSource Electronics Hardware Projects) that we have worked on.</br> 
-So, join us on this awesome journey of tech and imagination.
+# About Me
+Hi there! I'm an electronics hobbyist with a passion for designing and building innovative solutions. With a strong foundation in Electronics, PCB design, and embedded systems, I enjoy exploring the limitless possibilities of the Internet of Things.
 
-<!---
-a-techofficials/a-techofficials is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills & Expertise
+- **PCB Design:** Proficient in designing 2-4 layer PCBs using open-source CAD tools like KiCAD.
+- **CAD Design:** Beginner-level skills in designing CAD models using Autodesk Fusion 360.
+- **Embedded Systems:** Experienced with a variety of microcontrollers, including AVR, ESP8266, ESP32, and STM32.
+- **Programming:** Skilled in Python, MicroPython, and C programming.
+- **Development Environments:** Comfortable working with platforms like Arduino IDE and PlatformIO IDE.
+
+## Interests
+I love tinkering with new electronics projects, from creating IoT devices to developing embedded systems solutions. My GitHub is a place where I share my projects, collaborate with others, and contribute to the open-source community.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
