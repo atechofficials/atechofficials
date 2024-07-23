@@ -1,7 +1,7 @@
 # About Me
 Hi there! I'm an electronics hobbyist with a passion for designing and building innovative solutions. With a strong foundation in Electronics, PCB design, and embedded systems, I enjoy exploring the limitless possibilities of the Internet of Things.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@atechofficials)
 [![](https://img.shields.io/youtube/channel/subscribers/UCQ2ZvrYxtA7gPBhnJam7z_g?style=for-the-badge)](https://www.youtube.com/@atechofficials)
 [![](https://img.shields.io/youtube/channel/views/UCQ2ZvrYxtA7gPBhnJam7z_g?style=for-the-badge)](https://www.youtube.com/@atechofficials)
@@ -20,7 +20,7 @@ I love tinkering with new electronics projects, from creating IoT devices to dev
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,19 +33,19 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atechofficials&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atechofficials&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atechofficials&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=atechofficials&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=atechofficials&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atechofficials&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atechofficials&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=atechofficials&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atechofficials&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=atechofficials&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atechofficials&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
