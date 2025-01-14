@@ -11,7 +11,7 @@ Hi there! I'm an electronics hobbyist with a passion for designing and building 
 ## 🔧 Skills & Expertise
 - **PCB Design:** Proficient in designing 2-4 layer PCBs using open-source CAD tools like KiCAD.
 - **CAD Design:** Beginner-level skills in designing CAD models using Autodesk Fusion 360.
-- **Embedded Systems:** Experienced with a variety of microcontrollers, including AVR, ESP8266, ESP32, and STM32.
+- **Embedded Systems:** Experienced with a variety of microcontrollers, including Arduino, ESP8266, ESP32, RP2040, and STM32.
 - **Programming:** Skilled in Python, MicroPython, and C programming.
 - **Development Environments:** Comfortable working with platforms like Arduino IDE and PlatformIO IDE.
 
@@ -29,9 +29,11 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=atechofficials&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
