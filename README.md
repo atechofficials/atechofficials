@@ -5,8 +5,6 @@ Hi there! I'm an electronics hobbyist with a passion for designing and building 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@atechofficials)
 [![](https://img.shields.io/youtube/channel/subscribers/UCQ2ZvrYxtA7gPBhnJam7z_g?style=for-the-badge)](https://www.youtube.com/@atechofficials)
 [![](https://img.shields.io/youtube/channel/views/UCQ2ZvrYxtA7gPBhnJam7z_g?style=for-the-badge)](https://www.youtube.com/@atechofficials)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atechofficials/)
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atechofficials/)
 
 ## 🔧 Skills & Expertise
 - **PCB Design:** Proficient in designing 2-4 layer PCBs using open-source CAD tools like KiCAD.
